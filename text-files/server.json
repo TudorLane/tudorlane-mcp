@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.TudorLane/tudorlane-text-files",
+  "title": "Tudor Lane Text, Files and Utilities (via Apify)",
+  "description": "Text stats, file convert, PDF, JSON schema, dates, calendars, EXIF and units, via Apify.",
+  "version": "0.1.0",
+  "repository": {
+    "url": "https://github.com/TudorLane/tudorlane-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.apify.com/?tools=tudorlane/text-toolkit,tudorlane/file-convert-profile,tudorlane/json-schema-validate,tudorlane/exact-calc,tudorlane/date-parse-cron,tudorlane/timezone-meeting-planner,tudorlane/ics-calendar-tools,tudorlane/image-exif-metadata,tudorlane/page-metadata-extract,tudorlane/provable-random,tudorlane/html-markdown-to-pdf,tudorlane/unit-converter"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.TudorLane/tudorlane-leads-news",
+  "title": "Tudor Lane Leads and News (via Apify)",
+  "description": "Lead enrichment, email/phone, hiring, news, new companies, contacts and RSS, via Apify.",
+  "version": "0.1.0",
+  "repository": {
+    "url": "https://github.com/TudorLane/tudorlane-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.apify.com/?tools=tudorlane/company-from-domain,tudorlane/lead-enrichment,tudorlane/email-verify,tudorlane/phone-validate,tudorlane/company-hiring-watch,tudorlane/job-title-salary,tudorlane/news-feed-search,tudorlane/adverse-media-watch,tudorlane/topic-trends,tudorlane/website-contact-details,tudorlane/rss-feed-watch,tudorlane/uk-new-companies-watch"
+    }
+  ]
+}

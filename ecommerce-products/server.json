@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.TudorLane/tudorlane-ecommerce-products",
+  "title": "Tudor Lane Ecommerce and Products (via Apify)",
+  "description": "Barcodes, price watch, QR, VINs, tariffs, invoices, VAT and product checksums, via Apify.",
+  "version": "0.1.0",
+  "repository": {
+    "url": "https://github.com/TudorLane/tudorlane-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.apify.com/?tools=tudorlane/barcode-product-lookup,tudorlane/price-stock-watch,tudorlane/qr-barcode-tools,tudorlane/vin-decoder,tudorlane/hs-tariff-code,tudorlane/invoice-receipt-parse,tudorlane/tech-stack-detect,tudorlane/card-and-id-checksums,tudorlane/fx-vat-rates"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.TudorLane/tudorlane-security-dev",
+  "title": "Tudor Lane Security and Dev (via Apify)",
+  "description": "Actor trust, CVEs, package health, site safety, due diligence, domains and IP geo, via Apify.",
+  "version": "0.1.0",
+  "repository": {
+    "url": "https://github.com/TudorLane/tudorlane-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.apify.com/?tools=tudorlane/actor-trust-check,tudorlane/cve-lookup,tudorlane/package-health,tudorlane/package-vuln-watch,tudorlane/website-safety-check,tudorlane/signup-check,tudorlane/domain-availability,tudorlane/tech-stack-detect,tudorlane/site-up-link-check,tudorlane/website-due-diligence,tudorlane/domain-watch,tudorlane/ip-geolocation"
+    }
+  ]
+}

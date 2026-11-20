@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.TudorLane/tudorlane-travel",
+  "title": "Tudor Lane Travel and Places (via Apify)",
+  "description": "Advisories, visas, airports, weather, holidays, air quality, time zones and alerts, via Apify.",
+  "version": "0.1.0",
+  "repository": {
+    "url": "https://github.com/TudorLane/tudorlane-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.apify.com/?tools=tudorlane/travel-advisories,tudorlane/visa-requirements,tudorlane/airport-airline-lookup,tudorlane/world-weather-forecast,tudorlane/world-postcode-lookup,tudorlane/sun-moon-times,tudorlane/travel-advisory-watch,tudorlane/air-quality,tudorlane/earthquake-disaster-alerts,tudorlane/world-holidays-working-days,tudorlane/timezone-meeting-planner"
+    }
+  ]
+}

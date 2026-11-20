@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.TudorLane/tudorlane-kyb",
+  "title": "Tudor Lane KYB and Compliance (via Apify)",
+  "description": "UK company, sanctions, IDs, adverse media, site safety and actor trust, via Apify.",
+  "version": "0.1.0",
+  "repository": {
+    "url": "https://github.com/TudorLane/tudorlane-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.apify.com/?tools=tudorlane/uk-company-check,tudorlane/sanctions-screening,tudorlane/business-id-check,tudorlane/supplier-check,tudorlane/us-company-filings,tudorlane/lei-lookup,tudorlane/website-due-diligence,tudorlane/actor-trust-check,tudorlane/website-safety-check,tudorlane/signup-check,tudorlane/sanctions-watchlist,tudorlane/latam-id-check,tudorlane/adverse-media-watch"
+    }
+  ]
+}

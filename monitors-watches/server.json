@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.TudorLane/tudorlane-monitors-watches",
+  "title": "Tudor Lane Monitors and Watches (via Apify)",
+  "description": "Page, domain, RSS, sanctions, companies, FX, regulation, travel, prices and CVEs, via Apify.",
+  "version": "0.1.0",
+  "repository": {
+    "url": "https://github.com/TudorLane/tudorlane-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.apify.com/?tools=tudorlane/page-change-watch,tudorlane/domain-watch,tudorlane/rss-feed-watch,tudorlane/sanctions-watchlist,tudorlane/uk-company-watch,tudorlane/uk-new-companies-watch,tudorlane/fx-rate-alert,tudorlane/regulation-change-watch,tudorlane/travel-advisory-watch,tudorlane/package-vuln-watch,tudorlane/price-stock-watch,tudorlane/adverse-media-watch"
+    }
+  ]
+}

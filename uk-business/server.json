@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.TudorLane/tudorlane-uk-business",
+  "title": "Tudor Lane UK Everyday Business (via Apify)",
+  "description": "UK pay, sold prices, VAT/FX, holidays, tariffs, company watches and legislation, via Apify.",
+  "version": "0.1.0",
+  "repository": {
+    "url": "https://github.com/TudorLane/tudorlane-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.apify.com/?tools=tudorlane/uk-pay-calendar-calculator,tudorlane/uk-property-sold-prices,tudorlane/fx-vat-rates,tudorlane/world-holidays-working-days,tudorlane/world-postcode-lookup,tudorlane/hs-tariff-code,tudorlane/gov-tender-watch,tudorlane/uk-company-watch,tudorlane/uk-new-companies-watch,tudorlane/regulation-lookup,tudorlane/regulation-change-watch"
+    }
+  ]
+}
