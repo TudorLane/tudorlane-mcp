@@ -1,5 +1,7 @@
 # Tudor Lane business data tools (via Apify)
 
+[![Listed on mcpservers.org](https://mcpservers.org/badge.svg)](https://mcpservers.org/servers/tudorlane/tudorlane-mcp)
+
 Pay-per-event tools built on official and public data, for AI agents and people. The caller uses their own [Apify](https://apify.com) account (OAuth or API token). Tudor Lane does not see that token. There is no subscription: each tool charges a small amount per result on Apify.
 
 This repository is a **catalogue**, not a server we host. Each bundle below is a configured view of Apify's hosted MCP server at `https://mcp.apify.com`.
