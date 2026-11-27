@@ -36,7 +36,7 @@ Replace the URL with another bundle if you need a different job.
 
 Registry metadata: `kyb/server.json`
 
-- [Companies House API: UK Company Check (Insolvency, LEI, VAT)](https://apify.com/tudorlane/uk-company-check) — `tudorlane/uk-company-check`
+- [Companies House API: UK Company Check & KYB Risk](https://apify.com/tudorlane/uk-company-check) — `tudorlane/uk-company-check`
 - [OFAC Sanctions Screening: SDN, UK, EU and UN Lists](https://apify.com/tudorlane/sanctions-screening) — `tudorlane/sanctions-screening`
 - [VAT Number Validation: VIES, UK VAT, IBAN, LEI and EORI](https://apify.com/tudorlane/business-id-check) — `tudorlane/business-id-check`
 - [Supplier Check API: UK Company, VAT, Sanctions & Website (KYB)](https://apify.com/tudorlane/supplier-check) — `tudorlane/supplier-check`
@@ -100,8 +100,8 @@ Registry metadata: `web-docs/server.json`
 - [Sitemap URL Extractor: All Pages of a Website](https://apify.com/tudorlane/sitemap-url-lister) — `tudorlane/sitemap-url-lister`
 - [Page Metadata Extractor API: OpenGraph, JSON-LD, Feeds](https://apify.com/tudorlane/page-metadata-extract) — `tudorlane/page-metadata-extract`
 - [Page Change Watch: Website Change Detection & Diff](https://apify.com/tudorlane/page-change-watch) — `tudorlane/page-change-watch`
-- [Website Up & Link Checker: Status, Redirects, Response Time](https://apify.com/tudorlane/site-up-link-check) — `tudorlane/site-up-link-check`
-- [Tech Stack Detector API: CMS, Ecommerce & Analytics](https://apify.com/tudorlane/tech-stack-detect) — `tudorlane/tech-stack-detect`
+- [Bulk URL Status Checker: HTTP Codes, Redirects, 404s](https://apify.com/tudorlane/site-up-link-check) — `tudorlane/site-up-link-check`
+- [Tech Stack Detector: BuiltWith & Wappalyzer Alternative](https://apify.com/tudorlane/tech-stack-detect) — `tudorlane/tech-stack-detect`
 - [Domain Availability Checker API: Bulk RDAP Lookup](https://apify.com/tudorlane/domain-availability) — `tudorlane/domain-availability`
 - [Domain WHOIS & Website Watch: SSL, DNS, Expiry, Uptime](https://apify.com/tudorlane/domain-watch) — `tudorlane/domain-watch`
 
@@ -135,8 +135,8 @@ Registry metadata: `security-dev/server.json`
 - [Website Safety & Domain Age Checker API (Scam Signals)](https://apify.com/tudorlane/website-safety-check) — `tudorlane/website-safety-check`
 - [Sign-up Fraud Check: Email, Phone & IP Risk Score](https://apify.com/tudorlane/signup-check) — `tudorlane/signup-check`
 - [Domain Availability Checker API: Bulk RDAP Lookup](https://apify.com/tudorlane/domain-availability) — `tudorlane/domain-availability`
-- [Tech Stack Detector API: CMS, Ecommerce & Analytics](https://apify.com/tudorlane/tech-stack-detect) — `tudorlane/tech-stack-detect`
-- [Website Up & Link Checker: Status, Redirects, Response Time](https://apify.com/tudorlane/site-up-link-check) — `tudorlane/site-up-link-check`
+- [Tech Stack Detector: BuiltWith & Wappalyzer Alternative](https://apify.com/tudorlane/tech-stack-detect) — `tudorlane/tech-stack-detect`
+- [Bulk URL Status Checker: HTTP Codes, Redirects, 404s](https://apify.com/tudorlane/site-up-link-check) — `tudorlane/site-up-link-check`
 - [Website Due Diligence: Domain Age, SSL, Company & Risk Check](https://apify.com/tudorlane/website-due-diligence) — `tudorlane/website-due-diligence`
 - [Domain WHOIS & Website Watch: SSL, DNS, Expiry, Uptime](https://apify.com/tudorlane/domain-watch) — `tudorlane/domain-watch`
 - [IP Geolocation API: Country, City, ASN & Time Zone](https://apify.com/tudorlane/ip-geolocation) — `tudorlane/ip-geolocation`
@@ -191,7 +191,7 @@ Registry metadata: `ecommerce-products/server.json`
 - [VIN Decoder API: Make, Model, Year, Specs & Recalls](https://apify.com/tudorlane/vin-decoder) — `tudorlane/vin-decoder`
 - [HS Code & Import Duty API: UK Tariff and US HTS Rates](https://apify.com/tudorlane/hs-tariff-code) — `tudorlane/hs-tariff-code`
 - [Invoice & Receipt Parser API: PDF/Image to JSON](https://apify.com/tudorlane/invoice-receipt-parse) — `tudorlane/invoice-receipt-parse`
-- [Tech Stack Detector API: CMS, Ecommerce & Analytics](https://apify.com/tudorlane/tech-stack-detect) — `tudorlane/tech-stack-detect`
+- [Tech Stack Detector: BuiltWith & Wappalyzer Alternative](https://apify.com/tudorlane/tech-stack-detect) — `tudorlane/tech-stack-detect`
 - [Check Digit Validator: Card Luhn, ISBN, EAN, ISIN, CUSIP, SEDOL](https://apify.com/tudorlane/card-and-id-checksums) — `tudorlane/card-and-id-checksums`
 - [Currency Converter & VAT Rates by Country API (ECB, EU)](https://apify.com/tudorlane/fx-vat-rates) — `tudorlane/fx-vat-rates`
 
@@ -250,7 +250,7 @@ The bundles above are short lists (5–12 tools) so they fit in an agent's conte
 
 ### KYB and compliance
 
-- [Companies House API: UK Company Check (Insolvency, LEI, VAT)](https://apify.com/tudorlane/uk-company-check) — `tudorlane/uk-company-check`
+- [Companies House API: UK Company Check & KYB Risk](https://apify.com/tudorlane/uk-company-check) — `tudorlane/uk-company-check`
 - [OFAC Sanctions Screening: SDN, UK, EU and UN Lists](https://apify.com/tudorlane/sanctions-screening) — `tudorlane/sanctions-screening`
 - [VAT Number Validation: VIES, UK VAT, IBAN, LEI and EORI](https://apify.com/tudorlane/business-id-check) — `tudorlane/business-id-check`
 - [Supplier Check API: UK Company, VAT, Sanctions & Website (KYB)](https://apify.com/tudorlane/supplier-check) — `tudorlane/supplier-check`
@@ -302,8 +302,8 @@ The bundles above are short lists (5–12 tools) so they fit in an agent's conte
 - [Sitemap URL Extractor: All Pages of a Website](https://apify.com/tudorlane/sitemap-url-lister) — `tudorlane/sitemap-url-lister`
 - [Page Metadata Extractor API: OpenGraph, JSON-LD, Feeds](https://apify.com/tudorlane/page-metadata-extract) — `tudorlane/page-metadata-extract`
 - [Page Change Watch: Website Change Detection & Diff](https://apify.com/tudorlane/page-change-watch) — `tudorlane/page-change-watch`
-- [Website Up & Link Checker: Status, Redirects, Response Time](https://apify.com/tudorlane/site-up-link-check) — `tudorlane/site-up-link-check`
-- [Tech Stack Detector API: CMS, Ecommerce & Analytics](https://apify.com/tudorlane/tech-stack-detect) — `tudorlane/tech-stack-detect`
+- [Bulk URL Status Checker: HTTP Codes, Redirects, 404s](https://apify.com/tudorlane/site-up-link-check) — `tudorlane/site-up-link-check`
+- [Tech Stack Detector: BuiltWith & Wappalyzer Alternative](https://apify.com/tudorlane/tech-stack-detect) — `tudorlane/tech-stack-detect`
 - [Domain Availability Checker API: Bulk RDAP Lookup](https://apify.com/tudorlane/domain-availability) — `tudorlane/domain-availability`
 - [Domain WHOIS & Website Watch: SSL, DNS, Expiry, Uptime](https://apify.com/tudorlane/domain-watch) — `tudorlane/domain-watch`
 
@@ -329,8 +329,8 @@ The bundles above are short lists (5–12 tools) so they fit in an agent's conte
 - [Website Safety & Domain Age Checker API (Scam Signals)](https://apify.com/tudorlane/website-safety-check) — `tudorlane/website-safety-check`
 - [Sign-up Fraud Check: Email, Phone & IP Risk Score](https://apify.com/tudorlane/signup-check) — `tudorlane/signup-check`
 - [Domain Availability Checker API: Bulk RDAP Lookup](https://apify.com/tudorlane/domain-availability) — `tudorlane/domain-availability`
-- [Tech Stack Detector API: CMS, Ecommerce & Analytics](https://apify.com/tudorlane/tech-stack-detect) — `tudorlane/tech-stack-detect`
-- [Website Up & Link Checker: Status, Redirects, Response Time](https://apify.com/tudorlane/site-up-link-check) — `tudorlane/site-up-link-check`
+- [Tech Stack Detector: BuiltWith & Wappalyzer Alternative](https://apify.com/tudorlane/tech-stack-detect) — `tudorlane/tech-stack-detect`
+- [Bulk URL Status Checker: HTTP Codes, Redirects, 404s](https://apify.com/tudorlane/site-up-link-check) — `tudorlane/site-up-link-check`
 - [Website Due Diligence: Domain Age, SSL, Company & Risk Check](https://apify.com/tudorlane/website-due-diligence) — `tudorlane/website-due-diligence`
 - [Domain WHOIS & Website Watch: SSL, DNS, Expiry, Uptime](https://apify.com/tudorlane/domain-watch) — `tudorlane/domain-watch`
 - [IP Geolocation API: Country, City, ASN & Time Zone](https://apify.com/tudorlane/ip-geolocation) — `tudorlane/ip-geolocation`
@@ -373,7 +373,7 @@ The bundles above are short lists (5–12 tools) so they fit in an agent's conte
 - [VIN Decoder API: Make, Model, Year, Specs & Recalls](https://apify.com/tudorlane/vin-decoder) — `tudorlane/vin-decoder`
 - [HS Code & Import Duty API: UK Tariff and US HTS Rates](https://apify.com/tudorlane/hs-tariff-code) — `tudorlane/hs-tariff-code`
 - [Invoice & Receipt Parser API: PDF/Image to JSON](https://apify.com/tudorlane/invoice-receipt-parse) — `tudorlane/invoice-receipt-parse`
-- [Tech Stack Detector API: CMS, Ecommerce & Analytics](https://apify.com/tudorlane/tech-stack-detect) — `tudorlane/tech-stack-detect`
+- [Tech Stack Detector: BuiltWith & Wappalyzer Alternative](https://apify.com/tudorlane/tech-stack-detect) — `tudorlane/tech-stack-detect`
 - [Check Digit Validator: Card Luhn, ISBN, EAN, ISIN, CUSIP, SEDOL](https://apify.com/tudorlane/card-and-id-checksums) — `tudorlane/card-and-id-checksums`
 - [Currency Converter & VAT Rates by Country API (ECB, EU)](https://apify.com/tudorlane/fx-vat-rates) — `tudorlane/fx-vat-rates`
 
@@ -472,18 +472,18 @@ The bundles above are short lists (5–12 tools) so they fit in an agent's conte
 - [`tudorlane/sanctions-watchlist`](https://apify.com/tudorlane/sanctions-watchlist) — Sanctions Watchlist Monitor: OFAC, UK, EU & UN Alerts
 - [`tudorlane/seo-page-audit`](https://apify.com/tudorlane/seo-page-audit) — SEO Page Audit API: On-Page Checks, Score & Fixes
 - [`tudorlane/signup-check`](https://apify.com/tudorlane/signup-check) — Sign-up Fraud Check: Email, Phone & IP Risk Score
-- [`tudorlane/site-up-link-check`](https://apify.com/tudorlane/site-up-link-check) — Website Up & Link Checker: Status, Redirects, Response Time
+- [`tudorlane/site-up-link-check`](https://apify.com/tudorlane/site-up-link-check) — Bulk URL Status Checker: HTTP Codes, Redirects, 404s
 - [`tudorlane/sitemap-url-lister`](https://apify.com/tudorlane/sitemap-url-lister) — Sitemap URL Extractor: All Pages of a Website
 - [`tudorlane/stock-price`](https://apify.com/tudorlane/stock-price) — Stock Price & Fundamentals API: Quotes, History, SEC Financials
 - [`tudorlane/sun-moon-times`](https://apify.com/tudorlane/sun-moon-times) — Sunrise, Sunset & Moon Phase API: Any Place, Any Date
 - [`tudorlane/supplier-check`](https://apify.com/tudorlane/supplier-check) — Supplier Check API: UK Company, VAT, Sanctions & Website (KYB)
-- [`tudorlane/tech-stack-detect`](https://apify.com/tudorlane/tech-stack-detect) — Tech Stack Detector API: CMS, Ecommerce & Analytics
+- [`tudorlane/tech-stack-detect`](https://apify.com/tudorlane/tech-stack-detect) — Tech Stack Detector: BuiltWith & Wappalyzer Alternative
 - [`tudorlane/text-toolkit`](https://apify.com/tudorlane/text-toolkit) — Token Counter & Text Stats API: Tokens, Language, Readability
 - [`tudorlane/timezone-meeting-planner`](https://apify.com/tudorlane/timezone-meeting-planner) — Time Zone Converter & Meeting Planner API (DST-aware)
 - [`tudorlane/topic-trends`](https://apify.com/tudorlane/topic-trends) — Topic Trends API: Daily Interest from Wikipedia Views
 - [`tudorlane/travel-advisories`](https://apify.com/tudorlane/travel-advisories) — Travel Advisory API: UK FCDO & US State Dept by Country
 - [`tudorlane/travel-advisory-watch`](https://apify.com/tudorlane/travel-advisory-watch) — Travel Advisory Watch: UK FCDO & US State Dept Alerts
-- [`tudorlane/uk-company-check`](https://apify.com/tudorlane/uk-company-check) — Companies House API: UK Company Check (Insolvency, LEI, VAT)
+- [`tudorlane/uk-company-check`](https://apify.com/tudorlane/uk-company-check) — Companies House API: UK Company Check & KYB Risk
 - [`tudorlane/uk-company-watch`](https://apify.com/tudorlane/uk-company-watch) — UK Company Watch: Companies House Change Monitor
 - [`tudorlane/uk-new-companies-watch`](https://apify.com/tudorlane/uk-new-companies-watch) — UK New Companies Watch: Fresh Incorporation Leads
 - [`tudorlane/uk-pay-calendar-calculator`](https://apify.com/tudorlane/uk-pay-calendar-calculator) — UK Pay & Calendar Calculator 2026/27
