@@ -201,7 +201,7 @@ Registry metadata: `ecommerce-products/server.json`
 
 Registry metadata: `health-regulation/server.json`
 
-- [Medical Codes & NPI API: ICD-10, HCPCS, Drugs, Doctors](https://apify.com/tudorlane/medical-codes-providers) — `tudorlane/medical-codes-providers`
+- [ICD-10 & NPI Lookup API: HCPCS, LOINC, Drug Labels](https://apify.com/tudorlane/medical-codes-providers) — `tudorlane/medical-codes-providers`
 - [Regulation & Legislation Search API: UK, US, EU Law](https://apify.com/tudorlane/regulation-lookup) — `tudorlane/regulation-lookup`
 - [Regulation Change Watch: UK Legislation & US Federal Register](https://apify.com/tudorlane/regulation-change-watch) — `tudorlane/regulation-change-watch`
 - [Air Quality API: Live PM2.5, AQI & Health Advice by City](https://apify.com/tudorlane/air-quality) — `tudorlane/air-quality`
@@ -223,7 +223,7 @@ Registry metadata: `data-lookups/server.json`
 - [VIN Decoder API: Make, Model, Year, Specs & Recalls](https://apify.com/tudorlane/vin-decoder) — `tudorlane/vin-decoder`
 - [Barcode Lookup API: EAN/UPC to Product & Nutrition](https://apify.com/tudorlane/barcode-product-lookup) — `tudorlane/barcode-product-lookup`
 - [LEI Lookup API: GLEIF Search by Name, BIC, ISIN + Parents](https://apify.com/tudorlane/lei-lookup) — `tudorlane/lei-lookup`
-- [Medical Codes & NPI API: ICD-10, HCPCS, Drugs, Doctors](https://apify.com/tudorlane/medical-codes-providers) — `tudorlane/medical-codes-providers`
+- [ICD-10 & NPI Lookup API: HCPCS, LOINC, Drug Labels](https://apify.com/tudorlane/medical-codes-providers) — `tudorlane/medical-codes-providers`
 - [Postcode & ZIP Code Lookup API Worldwide (Geocode, Reverse)](https://apify.com/tudorlane/world-postcode-lookup) — `tudorlane/world-postcode-lookup`
 
 ### Text, files and utilities
@@ -379,7 +379,7 @@ The bundles above are short lists (5–12 tools) so they fit in an agent's conte
 
 ### Health and regulation
 
-- [Medical Codes & NPI API: ICD-10, HCPCS, Drugs, Doctors](https://apify.com/tudorlane/medical-codes-providers) — `tudorlane/medical-codes-providers`
+- [ICD-10 & NPI Lookup API: HCPCS, LOINC, Drug Labels](https://apify.com/tudorlane/medical-codes-providers) — `tudorlane/medical-codes-providers`
 - [Regulation & Legislation Search API: UK, US, EU Law](https://apify.com/tudorlane/regulation-lookup) — `tudorlane/regulation-lookup`
 - [Regulation Change Watch: UK Legislation & US Federal Register](https://apify.com/tudorlane/regulation-change-watch) — `tudorlane/regulation-change-watch`
 - [Air Quality API: Live PM2.5, AQI & Health Advice by City](https://apify.com/tudorlane/air-quality) — `tudorlane/air-quality`
@@ -397,7 +397,7 @@ The bundles above are short lists (5–12 tools) so they fit in an agent's conte
 - [VIN Decoder API: Make, Model, Year, Specs & Recalls](https://apify.com/tudorlane/vin-decoder) — `tudorlane/vin-decoder`
 - [Barcode Lookup API: EAN/UPC to Product & Nutrition](https://apify.com/tudorlane/barcode-product-lookup) — `tudorlane/barcode-product-lookup`
 - [LEI Lookup API: GLEIF Search by Name, BIC, ISIN + Parents](https://apify.com/tudorlane/lei-lookup) — `tudorlane/lei-lookup`
-- [Medical Codes & NPI API: ICD-10, HCPCS, Drugs, Doctors](https://apify.com/tudorlane/medical-codes-providers) — `tudorlane/medical-codes-providers`
+- [ICD-10 & NPI Lookup API: HCPCS, LOINC, Drug Labels](https://apify.com/tudorlane/medical-codes-providers) — `tudorlane/medical-codes-providers`
 - [Postcode & ZIP Code Lookup API Worldwide (Geocode, Reverse)](https://apify.com/tudorlane/world-postcode-lookup) — `tudorlane/world-postcode-lookup`
 
 ### Text, files and utilities
@@ -454,7 +454,7 @@ The bundles above are short lists (5–12 tools) so they fit in an agent's conte
 - [`tudorlane/lei-lookup`](https://apify.com/tudorlane/lei-lookup) — LEI Lookup API: GLEIF Search by Name, BIC, ISIN + Parents
 - [`tudorlane/macro-indicators`](https://apify.com/tudorlane/macro-indicators) — Macro Data API: Inflation, GDP, Unemployment by Country
 - [`tudorlane/market-hours`](https://apify.com/tudorlane/market-hours) — Stock Market Hours API: Is the Exchange Open Now?
-- [`tudorlane/medical-codes-providers`](https://apify.com/tudorlane/medical-codes-providers) — Medical Codes & NPI API: ICD-10, HCPCS, Drugs, Doctors
+- [`tudorlane/medical-codes-providers`](https://apify.com/tudorlane/medical-codes-providers) — ICD-10 & NPI Lookup API: HCPCS, LOINC, Drug Labels
 - [`tudorlane/news-feed-search`](https://apify.com/tudorlane/news-feed-search) — News Scraper - Latest News Articles & Headlines API
 - [`tudorlane/package-health`](https://apify.com/tudorlane/package-health) — Package Health API: Version, Licence & Vulnerabilities
 - [`tudorlane/package-vuln-watch`](https://apify.com/tudorlane/package-vuln-watch) — Package Vulnerability Watch: New CVEs & Releases Monitor
