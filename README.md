@@ -99,7 +99,7 @@ Registry metadata: `web-docs/server.json`
 - [Contact Details Scraper - Emails, Phones & Socials](https://apify.com/tudorlane/website-contact-details) — `tudorlane/website-contact-details`
 - [Sitemap URL Extractor: All Pages of a Website](https://apify.com/tudorlane/sitemap-url-lister) — `tudorlane/sitemap-url-lister`
 - [Page Metadata Extractor API: OpenGraph, JSON-LD, Feeds](https://apify.com/tudorlane/page-metadata-extract) — `tudorlane/page-metadata-extract`
-- [Page Change Watch: Website Change Detection & Diff](https://apify.com/tudorlane/page-change-watch) — `tudorlane/page-change-watch`
+- [Website Change Monitor: Page Change Detection & Diff Alerts](https://apify.com/tudorlane/page-change-watch) — `tudorlane/page-change-watch`
 - [Bulk URL Status Checker: HTTP Codes, Redirects, 404s](https://apify.com/tudorlane/site-up-link-check) — `tudorlane/site-up-link-check`
 - [Tech Stack Detector: BuiltWith & Wappalyzer Alternative](https://apify.com/tudorlane/tech-stack-detect) — `tudorlane/tech-stack-detect`
 - [Domain Availability Checker API: Bulk RDAP Lookup](https://apify.com/tudorlane/domain-availability) — `tudorlane/domain-availability`
@@ -147,7 +147,7 @@ Registry metadata: `security-dev/server.json`
 
 Registry metadata: `monitors-watches/server.json`
 
-- [Page Change Watch: Website Change Detection & Diff](https://apify.com/tudorlane/page-change-watch) — `tudorlane/page-change-watch`
+- [Website Change Monitor: Page Change Detection & Diff Alerts](https://apify.com/tudorlane/page-change-watch) — `tudorlane/page-change-watch`
 - [Domain WHOIS & Website Watch: SSL, DNS, Expiry, Uptime](https://apify.com/tudorlane/domain-watch) — `tudorlane/domain-watch`
 - [RSS Feed Reader & Monitor: New Items, Atom, Feed Finder](https://apify.com/tudorlane/rss-feed-watch) — `tudorlane/rss-feed-watch`
 - [Sanctions Watchlist Monitor: OFAC, UK, EU & UN Alerts](https://apify.com/tudorlane/sanctions-watchlist) — `tudorlane/sanctions-watchlist`
@@ -301,7 +301,7 @@ The bundles above are short lists (5–12 tools) so they fit in an agent's conte
 - [Contact Details Scraper - Emails, Phones & Socials](https://apify.com/tudorlane/website-contact-details) — `tudorlane/website-contact-details`
 - [Sitemap URL Extractor: All Pages of a Website](https://apify.com/tudorlane/sitemap-url-lister) — `tudorlane/sitemap-url-lister`
 - [Page Metadata Extractor API: OpenGraph, JSON-LD, Feeds](https://apify.com/tudorlane/page-metadata-extract) — `tudorlane/page-metadata-extract`
-- [Page Change Watch: Website Change Detection & Diff](https://apify.com/tudorlane/page-change-watch) — `tudorlane/page-change-watch`
+- [Website Change Monitor: Page Change Detection & Diff Alerts](https://apify.com/tudorlane/page-change-watch) — `tudorlane/page-change-watch`
 - [Bulk URL Status Checker: HTTP Codes, Redirects, 404s](https://apify.com/tudorlane/site-up-link-check) — `tudorlane/site-up-link-check`
 - [Tech Stack Detector: BuiltWith & Wappalyzer Alternative](https://apify.com/tudorlane/tech-stack-detect) — `tudorlane/tech-stack-detect`
 - [Domain Availability Checker API: Bulk RDAP Lookup](https://apify.com/tudorlane/domain-availability) — `tudorlane/domain-availability`
@@ -337,7 +337,7 @@ The bundles above are short lists (5–12 tools) so they fit in an agent's conte
 
 ### Monitors and watches
 
-- [Page Change Watch: Website Change Detection & Diff](https://apify.com/tudorlane/page-change-watch) — `tudorlane/page-change-watch`
+- [Website Change Monitor: Page Change Detection & Diff Alerts](https://apify.com/tudorlane/page-change-watch) — `tudorlane/page-change-watch`
 - [Domain WHOIS & Website Watch: SSL, DNS, Expiry, Uptime](https://apify.com/tudorlane/domain-watch) — `tudorlane/domain-watch`
 - [RSS Feed Reader & Monitor: New Items, Atom, Feed Finder](https://apify.com/tudorlane/rss-feed-watch) — `tudorlane/rss-feed-watch`
 - [Sanctions Watchlist Monitor: OFAC, UK, EU & UN Alerts](https://apify.com/tudorlane/sanctions-watchlist) — `tudorlane/sanctions-watchlist`
@@ -458,7 +458,7 @@ The bundles above are short lists (5–12 tools) so they fit in an agent's conte
 - [`tudorlane/news-feed-search`](https://apify.com/tudorlane/news-feed-search) — News Scraper - Latest News Articles & Headlines API
 - [`tudorlane/package-health`](https://apify.com/tudorlane/package-health) — Package Health API: Version, Licence & Vulnerabilities
 - [`tudorlane/package-vuln-watch`](https://apify.com/tudorlane/package-vuln-watch) — Package Vulnerability Watch: New CVEs & Releases Monitor
-- [`tudorlane/page-change-watch`](https://apify.com/tudorlane/page-change-watch) — Page Change Watch: Website Change Detection & Diff
+- [`tudorlane/page-change-watch`](https://apify.com/tudorlane/page-change-watch) — Website Change Monitor: Page Change Detection & Diff Alerts
 - [`tudorlane/page-metadata-extract`](https://apify.com/tudorlane/page-metadata-extract) — Page Metadata Extractor API: OpenGraph, JSON-LD, Feeds
 - [`tudorlane/page-to-markdown`](https://apify.com/tudorlane/page-to-markdown) — Website to Markdown: Web Page and PDF to LLM-ready Text
 - [`tudorlane/phone-validate`](https://apify.com/tudorlane/phone-validate) — Phone Number Validator API: Format, Type & Country
