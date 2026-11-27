@@ -187,7 +187,7 @@ Registry metadata: `ecommerce-products/server.json`
 
 - [Barcode Lookup API: EAN/UPC to Product & Nutrition](https://apify.com/tudorlane/barcode-product-lookup) — `tudorlane/barcode-product-lookup`
 - [Price Tracker: Product Price Drop & Back-in-Stock Alerts](https://apify.com/tudorlane/price-stock-watch) — `tudorlane/price-stock-watch`
-- [QR Code & Barcode API: Generate PNG/SVG and Decode Images](https://apify.com/tudorlane/qr-barcode-tools) — `tudorlane/qr-barcode-tools`
+- [QR Code Generator & Reader API: Barcodes, PNG/SVG, Decode](https://apify.com/tudorlane/qr-barcode-tools) — `tudorlane/qr-barcode-tools`
 - [VIN Decoder API: Make, Model, Year, Specs & Recalls](https://apify.com/tudorlane/vin-decoder) — `tudorlane/vin-decoder`
 - [HS Code & Import Duty API: UK Tariff and US HTS Rates](https://apify.com/tudorlane/hs-tariff-code) — `tudorlane/hs-tariff-code`
 - [Invoice Parser API: Receipts & PDF Invoices to JSON (OCR)](https://apify.com/tudorlane/invoice-receipt-parse) — `tudorlane/invoice-receipt-parse`
@@ -369,7 +369,7 @@ The bundles above are short lists (5–12 tools) so they fit in an agent's conte
 
 - [Barcode Lookup API: EAN/UPC to Product & Nutrition](https://apify.com/tudorlane/barcode-product-lookup) — `tudorlane/barcode-product-lookup`
 - [Price Tracker: Product Price Drop & Back-in-Stock Alerts](https://apify.com/tudorlane/price-stock-watch) — `tudorlane/price-stock-watch`
-- [QR Code & Barcode API: Generate PNG/SVG and Decode Images](https://apify.com/tudorlane/qr-barcode-tools) — `tudorlane/qr-barcode-tools`
+- [QR Code Generator & Reader API: Barcodes, PNG/SVG, Decode](https://apify.com/tudorlane/qr-barcode-tools) — `tudorlane/qr-barcode-tools`
 - [VIN Decoder API: Make, Model, Year, Specs & Recalls](https://apify.com/tudorlane/vin-decoder) — `tudorlane/vin-decoder`
 - [HS Code & Import Duty API: UK Tariff and US HTS Rates](https://apify.com/tudorlane/hs-tariff-code) — `tudorlane/hs-tariff-code`
 - [Invoice Parser API: Receipts & PDF Invoices to JSON (OCR)](https://apify.com/tudorlane/invoice-receipt-parse) — `tudorlane/invoice-receipt-parse`
@@ -464,7 +464,7 @@ The bundles above are short lists (5–12 tools) so they fit in an agent's conte
 - [`tudorlane/phone-validate`](https://apify.com/tudorlane/phone-validate) — Phone Number Validator API: Format, Type & Country
 - [`tudorlane/price-stock-watch`](https://apify.com/tudorlane/price-stock-watch) — Price Tracker: Product Price Drop & Back-in-Stock Alerts
 - [`tudorlane/provable-random`](https://apify.com/tudorlane/provable-random) — Provably Fair Random Picker: Raffles, Draws, Shuffles & IDs
-- [`tudorlane/qr-barcode-tools`](https://apify.com/tudorlane/qr-barcode-tools) — QR Code & Barcode API: Generate PNG/SVG and Decode Images
+- [`tudorlane/qr-barcode-tools`](https://apify.com/tudorlane/qr-barcode-tools) — QR Code Generator & Reader API: Barcodes, PNG/SVG, Decode
 - [`tudorlane/regulation-change-watch`](https://apify.com/tudorlane/regulation-change-watch) — Regulatory Change Monitor: UK Legislation & US Federal Register
 - [`tudorlane/regulation-lookup`](https://apify.com/tudorlane/regulation-lookup) — Regulation & Legislation Search API: UK, US, EU Law
 - [`tudorlane/rss-feed-watch`](https://apify.com/tudorlane/rss-feed-watch) — RSS Feed Reader & Monitor: New Items, Atom, Feed Finder
