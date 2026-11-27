@@ -233,7 +233,7 @@ Registry metadata: `data-lookups/server.json`
 Registry metadata: `text-files/server.json`
 
 - [Token Counter & Text Stats API: Tokens, Language, Readability](https://apify.com/tudorlane/text-toolkit) — `tudorlane/text-toolkit`
-- [File Converter & Data Profiler: CSV, Excel, JSON, Parquet](https://apify.com/tudorlane/file-convert-profile) — `tudorlane/file-convert-profile`
+- [CSV to JSON Converter: Excel, Parquet & Data Profiler](https://apify.com/tudorlane/file-convert-profile) — `tudorlane/file-convert-profile`
 - [JSON Schema Validator API: Validate & Infer Schemas](https://apify.com/tudorlane/json-schema-validate) — `tudorlane/json-schema-validate`
 - [Exact Calculator API: Decimal Maths, Percent, Loans, Rounding](https://apify.com/tudorlane/exact-calc) — `tudorlane/exact-calc`
 - [Date Parser & Cron API: Natural Language to ISO Dates](https://apify.com/tudorlane/date-parse-cron) — `tudorlane/date-parse-cron`
@@ -403,7 +403,7 @@ The bundles above are short lists (5–12 tools) so they fit in an agent's conte
 ### Text, files and utilities
 
 - [Token Counter & Text Stats API: Tokens, Language, Readability](https://apify.com/tudorlane/text-toolkit) — `tudorlane/text-toolkit`
-- [File Converter & Data Profiler: CSV, Excel, JSON, Parquet](https://apify.com/tudorlane/file-convert-profile) — `tudorlane/file-convert-profile`
+- [CSV to JSON Converter: Excel, Parquet & Data Profiler](https://apify.com/tudorlane/file-convert-profile) — `tudorlane/file-convert-profile`
 - [JSON Schema Validator API: Validate & Infer Schemas](https://apify.com/tudorlane/json-schema-validate) — `tudorlane/json-schema-validate`
 - [Exact Calculator API: Decimal Maths, Percent, Loans, Rounding](https://apify.com/tudorlane/exact-calc) — `tudorlane/exact-calc`
 - [Date Parser & Cron API: Natural Language to ISO Dates](https://apify.com/tudorlane/date-parse-cron) — `tudorlane/date-parse-cron`
@@ -434,7 +434,7 @@ The bundles above are short lists (5–12 tools) so they fit in an agent's conte
 - [`tudorlane/earthquake-disaster-alerts`](https://apify.com/tudorlane/earthquake-disaster-alerts) — Earthquake & Disaster Alerts API: Quakes, Storms, Floods
 - [`tudorlane/email-verify`](https://apify.com/tudorlane/email-verify) — Email Verifier & Email Validation - Bulk Email Checker
 - [`tudorlane/exact-calc`](https://apify.com/tudorlane/exact-calc) — Exact Calculator API: Decimal Maths, Percent, Loans, Rounding
-- [`tudorlane/file-convert-profile`](https://apify.com/tudorlane/file-convert-profile) — File Converter & Data Profiler: CSV, Excel, JSON, Parquet
+- [`tudorlane/file-convert-profile`](https://apify.com/tudorlane/file-convert-profile) — CSV to JSON Converter: Excel, Parquet & Data Profiler
 - [`tudorlane/funding-round-watch`](https://apify.com/tudorlane/funding-round-watch) — Funding Rounds Tracker - Crunchbase Alternative
 - [`tudorlane/fx-rate-alert`](https://apify.com/tudorlane/fx-rate-alert) — FX Rate Alert: Currency Move Monitor (ECB Rates)
 - [`tudorlane/fx-vat-rates`](https://apify.com/tudorlane/fx-vat-rates) — Currency Converter & VAT Rates by Country API (ECB, EU)
