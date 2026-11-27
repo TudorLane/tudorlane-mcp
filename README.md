@@ -62,7 +62,7 @@ Registry metadata: `uk-business/server.json`
 - [Public Holidays and Working Days API: 150+ Countries](https://apify.com/tudorlane/world-holidays-working-days) — `tudorlane/world-holidays-working-days`
 - [Postcode & ZIP Code Lookup API Worldwide (Geocode, Reverse)](https://apify.com/tudorlane/world-postcode-lookup) — `tudorlane/world-postcode-lookup`
 - [HS Code & Import Duty API: UK Tariff and US HTS Rates](https://apify.com/tudorlane/hs-tariff-code) — `tudorlane/hs-tariff-code`
-- [UK Gov Tender Watch: New Public Contract Alerts](https://apify.com/tudorlane/gov-tender-watch) — `tudorlane/gov-tender-watch`
+- [UK Government Tender Watch: New Public Contract Alerts](https://apify.com/tudorlane/gov-tender-watch) — `tudorlane/gov-tender-watch`
 - [UK Company Watch: Companies House Change Monitor](https://apify.com/tudorlane/uk-company-watch) — `tudorlane/uk-company-watch`
 - [UK New Companies Watch: Fresh Incorporation Leads](https://apify.com/tudorlane/uk-new-companies-watch) — `tudorlane/uk-new-companies-watch`
 - [Regulation & Legislation Search API: UK, US, EU Law](https://apify.com/tudorlane/regulation-lookup) — `tudorlane/regulation-lookup`
@@ -93,9 +93,9 @@ Registry metadata: `travel/server.json`
 Registry metadata: `web-docs/server.json`
 
 - [Website to Markdown: Web Page and PDF to LLM-ready Text](https://apify.com/tudorlane/page-to-markdown) — `tudorlane/page-to-markdown`
-- [PDF Generator: Markdown & HTML to PDF and Word (DOCX)](https://apify.com/tudorlane/html-markdown-to-pdf) — `tudorlane/html-markdown-to-pdf`
-- [Invoice & Receipt Parser API: PDF/Image to JSON](https://apify.com/tudorlane/invoice-receipt-parse) — `tudorlane/invoice-receipt-parse`
-- [SEO Page Audit API: On-Page Checks, Score & Fixes](https://apify.com/tudorlane/seo-page-audit) — `tudorlane/seo-page-audit`
+- [Markdown to PDF: HTML to PDF and Word (DOCX)](https://apify.com/tudorlane/html-markdown-to-pdf) — `tudorlane/html-markdown-to-pdf`
+- [Invoice Parser API: Receipts & PDF Invoices to JSON (OCR)](https://apify.com/tudorlane/invoice-receipt-parse) — `tudorlane/invoice-receipt-parse`
+- [SEO Audit: On-Page Checks, Score and Fixes](https://apify.com/tudorlane/seo-page-audit) — `tudorlane/seo-page-audit`
 - [Contact Details Scraper - Emails, Phones & Socials](https://apify.com/tudorlane/website-contact-details) — `tudorlane/website-contact-details`
 - [Sitemap URL Extractor: All Pages of a Website](https://apify.com/tudorlane/sitemap-url-lister) — `tudorlane/sitemap-url-lister`
 - [Page Metadata Extractor API: OpenGraph, JSON-LD, Feeds](https://apify.com/tudorlane/page-metadata-extract) — `tudorlane/page-metadata-extract`
@@ -190,7 +190,7 @@ Registry metadata: `ecommerce-products/server.json`
 - [QR Code & Barcode API: Generate PNG/SVG and Decode Images](https://apify.com/tudorlane/qr-barcode-tools) — `tudorlane/qr-barcode-tools`
 - [VIN Decoder API: Make, Model, Year, Specs & Recalls](https://apify.com/tudorlane/vin-decoder) — `tudorlane/vin-decoder`
 - [HS Code & Import Duty API: UK Tariff and US HTS Rates](https://apify.com/tudorlane/hs-tariff-code) — `tudorlane/hs-tariff-code`
-- [Invoice & Receipt Parser API: PDF/Image to JSON](https://apify.com/tudorlane/invoice-receipt-parse) — `tudorlane/invoice-receipt-parse`
+- [Invoice Parser API: Receipts & PDF Invoices to JSON (OCR)](https://apify.com/tudorlane/invoice-receipt-parse) — `tudorlane/invoice-receipt-parse`
 - [Tech Stack Detector: BuiltWith & Wappalyzer Alternative](https://apify.com/tudorlane/tech-stack-detect) — `tudorlane/tech-stack-detect`
 - [Check Digit Validator: Card Luhn, ISBN, EAN, ISIN, CUSIP, SEDOL](https://apify.com/tudorlane/card-and-id-checksums) — `tudorlane/card-and-id-checksums`
 - [Currency Converter & VAT Rates by Country API (ECB, EU)](https://apify.com/tudorlane/fx-vat-rates) — `tudorlane/fx-vat-rates`
@@ -242,7 +242,7 @@ Registry metadata: `text-files/server.json`
 - [Photo EXIF Metadata Reader & Stripper: GPS, Camera, Date](https://apify.com/tudorlane/image-exif-metadata) — `tudorlane/image-exif-metadata`
 - [Page Metadata Extractor API: OpenGraph, JSON-LD, Feeds](https://apify.com/tudorlane/page-metadata-extract) — `tudorlane/page-metadata-extract`
 - [Provably Fair Random Picker: Raffles, Draws, Shuffles & IDs](https://apify.com/tudorlane/provable-random) — `tudorlane/provable-random`
-- [PDF Generator: Markdown & HTML to PDF and Word (DOCX)](https://apify.com/tudorlane/html-markdown-to-pdf) — `tudorlane/html-markdown-to-pdf`
+- [Markdown to PDF: HTML to PDF and Word (DOCX)](https://apify.com/tudorlane/html-markdown-to-pdf) — `tudorlane/html-markdown-to-pdf`
 - [Unit Converter API: Length, Weight, Temperature & Cooking](https://apify.com/tudorlane/unit-converter) — `tudorlane/unit-converter`
 ## Tools by job
 
@@ -272,7 +272,7 @@ The bundles above are short lists (5–12 tools) so they fit in an agent's conte
 - [Public Holidays and Working Days API: 150+ Countries](https://apify.com/tudorlane/world-holidays-working-days) — `tudorlane/world-holidays-working-days`
 - [Postcode & ZIP Code Lookup API Worldwide (Geocode, Reverse)](https://apify.com/tudorlane/world-postcode-lookup) — `tudorlane/world-postcode-lookup`
 - [HS Code & Import Duty API: UK Tariff and US HTS Rates](https://apify.com/tudorlane/hs-tariff-code) — `tudorlane/hs-tariff-code`
-- [UK Gov Tender Watch: New Public Contract Alerts](https://apify.com/tudorlane/gov-tender-watch) — `tudorlane/gov-tender-watch`
+- [UK Government Tender Watch: New Public Contract Alerts](https://apify.com/tudorlane/gov-tender-watch) — `tudorlane/gov-tender-watch`
 - [UK Company Watch: Companies House Change Monitor](https://apify.com/tudorlane/uk-company-watch) — `tudorlane/uk-company-watch`
 - [UK New Companies Watch: Fresh Incorporation Leads](https://apify.com/tudorlane/uk-new-companies-watch) — `tudorlane/uk-new-companies-watch`
 - [Regulation & Legislation Search API: UK, US, EU Law](https://apify.com/tudorlane/regulation-lookup) — `tudorlane/regulation-lookup`
@@ -295,9 +295,9 @@ The bundles above are short lists (5–12 tools) so they fit in an agent's conte
 ### Web and documents
 
 - [Website to Markdown: Web Page and PDF to LLM-ready Text](https://apify.com/tudorlane/page-to-markdown) — `tudorlane/page-to-markdown`
-- [PDF Generator: Markdown & HTML to PDF and Word (DOCX)](https://apify.com/tudorlane/html-markdown-to-pdf) — `tudorlane/html-markdown-to-pdf`
-- [Invoice & Receipt Parser API: PDF/Image to JSON](https://apify.com/tudorlane/invoice-receipt-parse) — `tudorlane/invoice-receipt-parse`
-- [SEO Page Audit API: On-Page Checks, Score & Fixes](https://apify.com/tudorlane/seo-page-audit) — `tudorlane/seo-page-audit`
+- [Markdown to PDF: HTML to PDF and Word (DOCX)](https://apify.com/tudorlane/html-markdown-to-pdf) — `tudorlane/html-markdown-to-pdf`
+- [Invoice Parser API: Receipts & PDF Invoices to JSON (OCR)](https://apify.com/tudorlane/invoice-receipt-parse) — `tudorlane/invoice-receipt-parse`
+- [SEO Audit: On-Page Checks, Score and Fixes](https://apify.com/tudorlane/seo-page-audit) — `tudorlane/seo-page-audit`
 - [Contact Details Scraper - Emails, Phones & Socials](https://apify.com/tudorlane/website-contact-details) — `tudorlane/website-contact-details`
 - [Sitemap URL Extractor: All Pages of a Website](https://apify.com/tudorlane/sitemap-url-lister) — `tudorlane/sitemap-url-lister`
 - [Page Metadata Extractor API: OpenGraph, JSON-LD, Feeds](https://apify.com/tudorlane/page-metadata-extract) — `tudorlane/page-metadata-extract`
@@ -372,7 +372,7 @@ The bundles above are short lists (5–12 tools) so they fit in an agent's conte
 - [QR Code & Barcode API: Generate PNG/SVG and Decode Images](https://apify.com/tudorlane/qr-barcode-tools) — `tudorlane/qr-barcode-tools`
 - [VIN Decoder API: Make, Model, Year, Specs & Recalls](https://apify.com/tudorlane/vin-decoder) — `tudorlane/vin-decoder`
 - [HS Code & Import Duty API: UK Tariff and US HTS Rates](https://apify.com/tudorlane/hs-tariff-code) — `tudorlane/hs-tariff-code`
-- [Invoice & Receipt Parser API: PDF/Image to JSON](https://apify.com/tudorlane/invoice-receipt-parse) — `tudorlane/invoice-receipt-parse`
+- [Invoice Parser API: Receipts & PDF Invoices to JSON (OCR)](https://apify.com/tudorlane/invoice-receipt-parse) — `tudorlane/invoice-receipt-parse`
 - [Tech Stack Detector: BuiltWith & Wappalyzer Alternative](https://apify.com/tudorlane/tech-stack-detect) — `tudorlane/tech-stack-detect`
 - [Check Digit Validator: Card Luhn, ISBN, EAN, ISIN, CUSIP, SEDOL](https://apify.com/tudorlane/card-and-id-checksums) — `tudorlane/card-and-id-checksums`
 - [Currency Converter & VAT Rates by Country API (ECB, EU)](https://apify.com/tudorlane/fx-vat-rates) — `tudorlane/fx-vat-rates`
@@ -412,7 +412,7 @@ The bundles above are short lists (5–12 tools) so they fit in an agent's conte
 - [Photo EXIF Metadata Reader & Stripper: GPS, Camera, Date](https://apify.com/tudorlane/image-exif-metadata) — `tudorlane/image-exif-metadata`
 - [Page Metadata Extractor API: OpenGraph, JSON-LD, Feeds](https://apify.com/tudorlane/page-metadata-extract) — `tudorlane/page-metadata-extract`
 - [Provably Fair Random Picker: Raffles, Draws, Shuffles & IDs](https://apify.com/tudorlane/provable-random) — `tudorlane/provable-random`
-- [PDF Generator: Markdown & HTML to PDF and Word (DOCX)](https://apify.com/tudorlane/html-markdown-to-pdf) — `tudorlane/html-markdown-to-pdf`
+- [Markdown to PDF: HTML to PDF and Word (DOCX)](https://apify.com/tudorlane/html-markdown-to-pdf) — `tudorlane/html-markdown-to-pdf`
 - [Unit Converter API: Length, Weight, Temperature & Cooking](https://apify.com/tudorlane/unit-converter) — `tudorlane/unit-converter`
 
 ## A–Z index
@@ -438,13 +438,13 @@ The bundles above are short lists (5–12 tools) so they fit in an agent's conte
 - [`tudorlane/funding-round-watch`](https://apify.com/tudorlane/funding-round-watch) — Funding Rounds Tracker - Crunchbase Alternative
 - [`tudorlane/fx-rate-alert`](https://apify.com/tudorlane/fx-rate-alert) — FX Rate Alert: Currency Move Monitor (ECB Rates)
 - [`tudorlane/fx-vat-rates`](https://apify.com/tudorlane/fx-vat-rates) — Currency Converter & VAT Rates by Country API (ECB, EU)
-- [`tudorlane/gov-tender-watch`](https://apify.com/tudorlane/gov-tender-watch) — UK Gov Tender Watch: New Public Contract Alerts
+- [`tudorlane/gov-tender-watch`](https://apify.com/tudorlane/gov-tender-watch) — UK Government Tender Watch: New Public Contract Alerts
 - [`tudorlane/hs-tariff-code`](https://apify.com/tudorlane/hs-tariff-code) — HS Code & Import Duty API: UK Tariff and US HTS Rates
-- [`tudorlane/html-markdown-to-pdf`](https://apify.com/tudorlane/html-markdown-to-pdf) — PDF Generator: Markdown & HTML to PDF and Word (DOCX)
+- [`tudorlane/html-markdown-to-pdf`](https://apify.com/tudorlane/html-markdown-to-pdf) — Markdown to PDF: HTML to PDF and Word (DOCX)
 - [`tudorlane/ics-calendar-tools`](https://apify.com/tudorlane/ics-calendar-tools) — Calendar ICS API: Create Invites, Parse Feeds, Free Slots
 - [`tudorlane/image-exif-metadata`](https://apify.com/tudorlane/image-exif-metadata) — Photo EXIF Metadata Reader & Stripper: GPS, Camera, Date
 - [`tudorlane/interest-rates-yields`](https://apify.com/tudorlane/interest-rates-yields) — Interest Rates & Bond Yields API: Fed, BoE, ECB
-- [`tudorlane/invoice-receipt-parse`](https://apify.com/tudorlane/invoice-receipt-parse) — Invoice & Receipt Parser API: PDF/Image to JSON
+- [`tudorlane/invoice-receipt-parse`](https://apify.com/tudorlane/invoice-receipt-parse) — Invoice Parser API: Receipts & PDF Invoices to JSON (OCR)
 - [`tudorlane/ip-geolocation`](https://apify.com/tudorlane/ip-geolocation) — IP Geolocation API: Country, City, ASN & Time Zone
 - [`tudorlane/iso-codes-lookup`](https://apify.com/tudorlane/iso-codes-lookup) — Country, Currency & Language Codes API: ISO Lookup
 - [`tudorlane/job-title-salary`](https://apify.com/tudorlane/job-title-salary) — Job Title to Salary API: SOC Codes & US Pay by State
@@ -470,7 +470,7 @@ The bundles above are short lists (5–12 tools) so they fit in an agent's conte
 - [`tudorlane/rss-feed-watch`](https://apify.com/tudorlane/rss-feed-watch) — RSS Feed Reader & Monitor: New Items, Atom, Feed Finder
 - [`tudorlane/sanctions-screening`](https://apify.com/tudorlane/sanctions-screening) — OFAC Sanctions Screening: SDN, UK, EU and UN Lists
 - [`tudorlane/sanctions-watchlist`](https://apify.com/tudorlane/sanctions-watchlist) — Sanctions Watchlist Monitor: OFAC, UK, EU & UN Alerts
-- [`tudorlane/seo-page-audit`](https://apify.com/tudorlane/seo-page-audit) — SEO Page Audit API: On-Page Checks, Score & Fixes
+- [`tudorlane/seo-page-audit`](https://apify.com/tudorlane/seo-page-audit) — SEO Audit: On-Page Checks, Score and Fixes
 - [`tudorlane/signup-check`](https://apify.com/tudorlane/signup-check) — Sign-up Fraud Check: Email, Phone & IP Risk Score
 - [`tudorlane/site-up-link-check`](https://apify.com/tudorlane/site-up-link-check) — Bulk URL Status Checker: HTTP Codes, Redirects, 404s
 - [`tudorlane/sitemap-url-lister`](https://apify.com/tudorlane/sitemap-url-lister) — Sitemap URL Extractor: All Pages of a Website
