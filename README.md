@@ -48,7 +48,7 @@ Registry metadata: `kyb/server.json`
 - [Sign-up Fraud Check: Email, Phone & IP Risk Score](https://apify.com/tudorlane/signup-check) — `tudorlane/signup-check`
 - [Sanctions Watchlist Monitor: OFAC, UK, EU & UN Alerts](https://apify.com/tudorlane/sanctions-watchlist) — `tudorlane/sanctions-watchlist`
 - [LatAm Tax ID Validator: CPF, CNPJ, RFC, CURP, CUIT, RUT](https://apify.com/tudorlane/latam-id-check) — `tudorlane/latam-id-check`
-- [Adverse Media Watch: Negative News Screening for KYC](https://apify.com/tudorlane/adverse-media-watch) — `tudorlane/adverse-media-watch`
+- [Adverse Media Screening: Negative News Monitor for KYC & AML](https://apify.com/tudorlane/adverse-media-watch) — `tudorlane/adverse-media-watch`
 
 ### UK everyday business
 
@@ -66,7 +66,7 @@ Registry metadata: `uk-business/server.json`
 - [UK Company Watch: Companies House Change Monitor](https://apify.com/tudorlane/uk-company-watch) — `tudorlane/uk-company-watch`
 - [UK New Companies Watch: Fresh Incorporation Leads](https://apify.com/tudorlane/uk-new-companies-watch) — `tudorlane/uk-new-companies-watch`
 - [Regulation & Legislation Search API: UK, US, EU Law](https://apify.com/tudorlane/regulation-lookup) — `tudorlane/regulation-lookup`
-- [Regulation Change Watch: UK Legislation & US Federal Register](https://apify.com/tudorlane/regulation-change-watch) — `tudorlane/regulation-change-watch`
+- [Regulatory Change Monitor: UK Legislation & US Federal Register](https://apify.com/tudorlane/regulation-change-watch) — `tudorlane/regulation-change-watch`
 
 ### Travel and places
 
@@ -154,11 +154,11 @@ Registry metadata: `monitors-watches/server.json`
 - [UK Company Watch: Companies House Change Monitor](https://apify.com/tudorlane/uk-company-watch) — `tudorlane/uk-company-watch`
 - [UK New Companies Watch: Fresh Incorporation Leads](https://apify.com/tudorlane/uk-new-companies-watch) — `tudorlane/uk-new-companies-watch`
 - [FX Rate Alert: Currency Move Monitor (ECB Rates)](https://apify.com/tudorlane/fx-rate-alert) — `tudorlane/fx-rate-alert`
-- [Regulation Change Watch: UK Legislation & US Federal Register](https://apify.com/tudorlane/regulation-change-watch) — `tudorlane/regulation-change-watch`
+- [Regulatory Change Monitor: UK Legislation & US Federal Register](https://apify.com/tudorlane/regulation-change-watch) — `tudorlane/regulation-change-watch`
 - [Travel Advisory Watch: UK FCDO & US State Dept Alerts](https://apify.com/tudorlane/travel-advisory-watch) — `tudorlane/travel-advisory-watch`
 - [Package Vulnerability Watch: New CVEs & Releases Monitor](https://apify.com/tudorlane/package-vuln-watch) — `tudorlane/package-vuln-watch`
 - [Price Tracker: Product Price Drop & Back-in-Stock Alerts](https://apify.com/tudorlane/price-stock-watch) — `tudorlane/price-stock-watch`
-- [Adverse Media Watch: Negative News Screening for KYC](https://apify.com/tudorlane/adverse-media-watch) — `tudorlane/adverse-media-watch`
+- [Adverse Media Screening: Negative News Monitor for KYC & AML](https://apify.com/tudorlane/adverse-media-watch) — `tudorlane/adverse-media-watch`
 
 ### Leads and news
 
@@ -173,7 +173,7 @@ Registry metadata: `leads-news/server.json`
 - [Job Postings Scraper & Hiring Watch: Greenhouse, Lever, Ashby](https://apify.com/tudorlane/company-hiring-watch) — `tudorlane/company-hiring-watch`
 - [Job Title to Salary API: SOC Codes & US Pay by State](https://apify.com/tudorlane/job-title-salary) — `tudorlane/job-title-salary`
 - [News Scraper - Latest News Articles & Headlines API](https://apify.com/tudorlane/news-feed-search) — `tudorlane/news-feed-search`
-- [Adverse Media Watch: Negative News Screening for KYC](https://apify.com/tudorlane/adverse-media-watch) — `tudorlane/adverse-media-watch`
+- [Adverse Media Screening: Negative News Monitor for KYC & AML](https://apify.com/tudorlane/adverse-media-watch) — `tudorlane/adverse-media-watch`
 - [Topic Trends API: Daily Interest from Wikipedia Views](https://apify.com/tudorlane/topic-trends) — `tudorlane/topic-trends`
 - [Contact Details Scraper - Emails, Phones & Socials](https://apify.com/tudorlane/website-contact-details) — `tudorlane/website-contact-details`
 - [RSS Feed Reader & Monitor: New Items, Atom, Feed Finder](https://apify.com/tudorlane/rss-feed-watch) — `tudorlane/rss-feed-watch`
@@ -203,7 +203,7 @@ Registry metadata: `health-regulation/server.json`
 
 - [ICD-10 & NPI Lookup API: HCPCS, LOINC, Drug Labels](https://apify.com/tudorlane/medical-codes-providers) — `tudorlane/medical-codes-providers`
 - [Regulation & Legislation Search API: UK, US, EU Law](https://apify.com/tudorlane/regulation-lookup) — `tudorlane/regulation-lookup`
-- [Regulation Change Watch: UK Legislation & US Federal Register](https://apify.com/tudorlane/regulation-change-watch) — `tudorlane/regulation-change-watch`
+- [Regulatory Change Monitor: UK Legislation & US Federal Register](https://apify.com/tudorlane/regulation-change-watch) — `tudorlane/regulation-change-watch`
 - [Air Quality API: Live PM2.5, AQI & Health Advice by City](https://apify.com/tudorlane/air-quality) — `tudorlane/air-quality`
 - [Earthquake & Disaster Alerts API: Quakes, Storms, Floods](https://apify.com/tudorlane/earthquake-disaster-alerts) — `tudorlane/earthquake-disaster-alerts`
 
@@ -262,7 +262,7 @@ The bundles above are short lists (5–12 tools) so they fit in an agent's conte
 - [Sign-up Fraud Check: Email, Phone & IP Risk Score](https://apify.com/tudorlane/signup-check) — `tudorlane/signup-check`
 - [Sanctions Watchlist Monitor: OFAC, UK, EU & UN Alerts](https://apify.com/tudorlane/sanctions-watchlist) — `tudorlane/sanctions-watchlist`
 - [LatAm Tax ID Validator: CPF, CNPJ, RFC, CURP, CUIT, RUT](https://apify.com/tudorlane/latam-id-check) — `tudorlane/latam-id-check`
-- [Adverse Media Watch: Negative News Screening for KYC](https://apify.com/tudorlane/adverse-media-watch) — `tudorlane/adverse-media-watch`
+- [Adverse Media Screening: Negative News Monitor for KYC & AML](https://apify.com/tudorlane/adverse-media-watch) — `tudorlane/adverse-media-watch`
 
 ### UK everyday business
 
@@ -276,7 +276,7 @@ The bundles above are short lists (5–12 tools) so they fit in an agent's conte
 - [UK Company Watch: Companies House Change Monitor](https://apify.com/tudorlane/uk-company-watch) — `tudorlane/uk-company-watch`
 - [UK New Companies Watch: Fresh Incorporation Leads](https://apify.com/tudorlane/uk-new-companies-watch) — `tudorlane/uk-new-companies-watch`
 - [Regulation & Legislation Search API: UK, US, EU Law](https://apify.com/tudorlane/regulation-lookup) — `tudorlane/regulation-lookup`
-- [Regulation Change Watch: UK Legislation & US Federal Register](https://apify.com/tudorlane/regulation-change-watch) — `tudorlane/regulation-change-watch`
+- [Regulatory Change Monitor: UK Legislation & US Federal Register](https://apify.com/tudorlane/regulation-change-watch) — `tudorlane/regulation-change-watch`
 
 ### Travel and places
 
@@ -344,11 +344,11 @@ The bundles above are short lists (5–12 tools) so they fit in an agent's conte
 - [UK Company Watch: Companies House Change Monitor](https://apify.com/tudorlane/uk-company-watch) — `tudorlane/uk-company-watch`
 - [UK New Companies Watch: Fresh Incorporation Leads](https://apify.com/tudorlane/uk-new-companies-watch) — `tudorlane/uk-new-companies-watch`
 - [FX Rate Alert: Currency Move Monitor (ECB Rates)](https://apify.com/tudorlane/fx-rate-alert) — `tudorlane/fx-rate-alert`
-- [Regulation Change Watch: UK Legislation & US Federal Register](https://apify.com/tudorlane/regulation-change-watch) — `tudorlane/regulation-change-watch`
+- [Regulatory Change Monitor: UK Legislation & US Federal Register](https://apify.com/tudorlane/regulation-change-watch) — `tudorlane/regulation-change-watch`
 - [Travel Advisory Watch: UK FCDO & US State Dept Alerts](https://apify.com/tudorlane/travel-advisory-watch) — `tudorlane/travel-advisory-watch`
 - [Package Vulnerability Watch: New CVEs & Releases Monitor](https://apify.com/tudorlane/package-vuln-watch) — `tudorlane/package-vuln-watch`
 - [Price Tracker: Product Price Drop & Back-in-Stock Alerts](https://apify.com/tudorlane/price-stock-watch) — `tudorlane/price-stock-watch`
-- [Adverse Media Watch: Negative News Screening for KYC](https://apify.com/tudorlane/adverse-media-watch) — `tudorlane/adverse-media-watch`
+- [Adverse Media Screening: Negative News Monitor for KYC & AML](https://apify.com/tudorlane/adverse-media-watch) — `tudorlane/adverse-media-watch`
 
 ### Leads, news and hiring
 
@@ -359,7 +359,7 @@ The bundles above are short lists (5–12 tools) so they fit in an agent's conte
 - [Job Postings Scraper & Hiring Watch: Greenhouse, Lever, Ashby](https://apify.com/tudorlane/company-hiring-watch) — `tudorlane/company-hiring-watch`
 - [Job Title to Salary API: SOC Codes & US Pay by State](https://apify.com/tudorlane/job-title-salary) — `tudorlane/job-title-salary`
 - [News Scraper - Latest News Articles & Headlines API](https://apify.com/tudorlane/news-feed-search) — `tudorlane/news-feed-search`
-- [Adverse Media Watch: Negative News Screening for KYC](https://apify.com/tudorlane/adverse-media-watch) — `tudorlane/adverse-media-watch`
+- [Adverse Media Screening: Negative News Monitor for KYC & AML](https://apify.com/tudorlane/adverse-media-watch) — `tudorlane/adverse-media-watch`
 - [Topic Trends API: Daily Interest from Wikipedia Views](https://apify.com/tudorlane/topic-trends) — `tudorlane/topic-trends`
 - [Contact Details Scraper - Emails, Phones & Socials](https://apify.com/tudorlane/website-contact-details) — `tudorlane/website-contact-details`
 - [RSS Feed Reader & Monitor: New Items, Atom, Feed Finder](https://apify.com/tudorlane/rss-feed-watch) — `tudorlane/rss-feed-watch`
@@ -381,7 +381,7 @@ The bundles above are short lists (5–12 tools) so they fit in an agent's conte
 
 - [ICD-10 & NPI Lookup API: HCPCS, LOINC, Drug Labels](https://apify.com/tudorlane/medical-codes-providers) — `tudorlane/medical-codes-providers`
 - [Regulation & Legislation Search API: UK, US, EU Law](https://apify.com/tudorlane/regulation-lookup) — `tudorlane/regulation-lookup`
-- [Regulation Change Watch: UK Legislation & US Federal Register](https://apify.com/tudorlane/regulation-change-watch) — `tudorlane/regulation-change-watch`
+- [Regulatory Change Monitor: UK Legislation & US Federal Register](https://apify.com/tudorlane/regulation-change-watch) — `tudorlane/regulation-change-watch`
 - [Air Quality API: Live PM2.5, AQI & Health Advice by City](https://apify.com/tudorlane/air-quality) — `tudorlane/air-quality`
 - [Earthquake & Disaster Alerts API: Quakes, Storms, Floods](https://apify.com/tudorlane/earthquake-disaster-alerts) — `tudorlane/earthquake-disaster-alerts`
 
@@ -419,7 +419,7 @@ The bundles above are short lists (5–12 tools) so they fit in an agent's conte
 
 - [`tudorlane/academic-paper-search`](https://apify.com/tudorlane/academic-paper-search) — Academic Paper Search API: Crossref, arXiv & DOI Lookup
 - [`tudorlane/actor-trust-check`](https://apify.com/tudorlane/actor-trust-check) — Actor Trust Check: Score Any Apify Actor Before You Call It
-- [`tudorlane/adverse-media-watch`](https://apify.com/tudorlane/adverse-media-watch) — Adverse Media Watch: Negative News Screening for KYC
+- [`tudorlane/adverse-media-watch`](https://apify.com/tudorlane/adverse-media-watch) — Adverse Media Screening: Negative News Monitor for KYC & AML
 - [`tudorlane/air-quality`](https://apify.com/tudorlane/air-quality) — Air Quality API: Live PM2.5, AQI & Health Advice by City
 - [`tudorlane/airport-airline-lookup`](https://apify.com/tudorlane/airport-airline-lookup) — Airport & Airline Code API: IATA, ICAO, Distance
 - [`tudorlane/barcode-product-lookup`](https://apify.com/tudorlane/barcode-product-lookup) — Barcode Lookup API: EAN/UPC to Product & Nutrition
@@ -465,7 +465,7 @@ The bundles above are short lists (5–12 tools) so they fit in an agent's conte
 - [`tudorlane/price-stock-watch`](https://apify.com/tudorlane/price-stock-watch) — Price Tracker: Product Price Drop & Back-in-Stock Alerts
 - [`tudorlane/provable-random`](https://apify.com/tudorlane/provable-random) — Provably Fair Random Picker: Raffles, Draws, Shuffles & IDs
 - [`tudorlane/qr-barcode-tools`](https://apify.com/tudorlane/qr-barcode-tools) — QR Code & Barcode API: Generate PNG/SVG and Decode Images
-- [`tudorlane/regulation-change-watch`](https://apify.com/tudorlane/regulation-change-watch) — Regulation Change Watch: UK Legislation & US Federal Register
+- [`tudorlane/regulation-change-watch`](https://apify.com/tudorlane/regulation-change-watch) — Regulatory Change Monitor: UK Legislation & US Federal Register
 - [`tudorlane/regulation-lookup`](https://apify.com/tudorlane/regulation-lookup) — Regulation & Legislation Search API: UK, US, EU Law
 - [`tudorlane/rss-feed-watch`](https://apify.com/tudorlane/rss-feed-watch) — RSS Feed Reader & Monitor: New Items, Atom, Feed Finder
 - [`tudorlane/sanctions-screening`](https://apify.com/tudorlane/sanctions-screening) — OFAC Sanctions Screening: SDN, UK, EU and UN Lists
