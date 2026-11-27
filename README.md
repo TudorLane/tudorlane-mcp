@@ -38,8 +38,8 @@ Registry metadata: `kyb/server.json`
 
 - [Companies House API: UK Company Check & KYB Risk](https://apify.com/tudorlane/uk-company-check) — `tudorlane/uk-company-check`
 - [OFAC Sanctions Screening: SDN, UK, EU and UN Lists](https://apify.com/tudorlane/sanctions-screening) — `tudorlane/sanctions-screening`
-- [VAT Number Validation: VIES, UK VAT, IBAN, LEI and EORI](https://apify.com/tudorlane/business-id-check) — `tudorlane/business-id-check`
-- [Supplier Check API: UK Company, VAT, Sanctions & Website (KYB)](https://apify.com/tudorlane/supplier-check) — `tudorlane/supplier-check`
+- [VAT Number Validation: EU VIES, IBAN, LEI & EORI Check](https://apify.com/tudorlane/business-id-check) — `tudorlane/business-id-check`
+- [Supplier Check API: UK KYB, Sanctions & Website Risk](https://apify.com/tudorlane/supplier-check) — `tudorlane/supplier-check`
 - [SEC EDGAR API: US Company Filings, Financials & Insiders](https://apify.com/tudorlane/us-company-filings) — `tudorlane/us-company-filings`
 - [LEI Lookup API: GLEIF Search by Name, BIC, ISIN + Parents](https://apify.com/tudorlane/lei-lookup) — `tudorlane/lei-lookup`
 - [Website Due Diligence: Domain Age, SSL, Company & Risk Check](https://apify.com/tudorlane/website-due-diligence) — `tudorlane/website-due-diligence`
@@ -252,8 +252,8 @@ The bundles above are short lists (5–12 tools) so they fit in an agent's conte
 
 - [Companies House API: UK Company Check & KYB Risk](https://apify.com/tudorlane/uk-company-check) — `tudorlane/uk-company-check`
 - [OFAC Sanctions Screening: SDN, UK, EU and UN Lists](https://apify.com/tudorlane/sanctions-screening) — `tudorlane/sanctions-screening`
-- [VAT Number Validation: VIES, UK VAT, IBAN, LEI and EORI](https://apify.com/tudorlane/business-id-check) — `tudorlane/business-id-check`
-- [Supplier Check API: UK Company, VAT, Sanctions & Website (KYB)](https://apify.com/tudorlane/supplier-check) — `tudorlane/supplier-check`
+- [VAT Number Validation: EU VIES, IBAN, LEI & EORI Check](https://apify.com/tudorlane/business-id-check) — `tudorlane/business-id-check`
+- [Supplier Check API: UK KYB, Sanctions & Website Risk](https://apify.com/tudorlane/supplier-check) — `tudorlane/supplier-check`
 - [SEC EDGAR API: US Company Filings, Financials & Insiders](https://apify.com/tudorlane/us-company-filings) — `tudorlane/us-company-filings`
 - [LEI Lookup API: GLEIF Search by Name, BIC, ISIN + Parents](https://apify.com/tudorlane/lei-lookup) — `tudorlane/lei-lookup`
 - [Website Due Diligence: Domain Age, SSL, Company & Risk Check](https://apify.com/tudorlane/website-due-diligence) — `tudorlane/website-due-diligence`
@@ -423,7 +423,7 @@ The bundles above are short lists (5–12 tools) so they fit in an agent's conte
 - [`tudorlane/air-quality`](https://apify.com/tudorlane/air-quality) — Air Quality API: Live PM2.5, AQI & Health Advice by City
 - [`tudorlane/airport-airline-lookup`](https://apify.com/tudorlane/airport-airline-lookup) — Airport & Airline Code API: IATA, ICAO, Distance
 - [`tudorlane/barcode-product-lookup`](https://apify.com/tudorlane/barcode-product-lookup) — Barcode Lookup API: EAN/UPC to Product & Nutrition
-- [`tudorlane/business-id-check`](https://apify.com/tudorlane/business-id-check) — VAT Number Validation: VIES, UK VAT, IBAN, LEI and EORI
+- [`tudorlane/business-id-check`](https://apify.com/tudorlane/business-id-check) — VAT Number Validation: EU VIES, IBAN, LEI & EORI Check
 - [`tudorlane/card-and-id-checksums`](https://apify.com/tudorlane/card-and-id-checksums) — Check Digit Validator: Card Luhn, ISBN, EAN, ISIN, CUSIP, SEDOL
 - [`tudorlane/company-from-domain`](https://apify.com/tudorlane/company-from-domain) — Company Enrichment API: Domain to Company Profile
 - [`tudorlane/company-hiring-watch`](https://apify.com/tudorlane/company-hiring-watch) — Job Postings Scraper & Hiring Watch: Greenhouse, Lever, Ashby
@@ -476,7 +476,7 @@ The bundles above are short lists (5–12 tools) so they fit in an agent's conte
 - [`tudorlane/sitemap-url-lister`](https://apify.com/tudorlane/sitemap-url-lister) — Sitemap URL Extractor: All Pages of a Website
 - [`tudorlane/stock-price`](https://apify.com/tudorlane/stock-price) — Stock Price & Fundamentals API: Quotes, History, SEC Financials
 - [`tudorlane/sun-moon-times`](https://apify.com/tudorlane/sun-moon-times) — Sunrise, Sunset & Moon Phase API: Any Place, Any Date
-- [`tudorlane/supplier-check`](https://apify.com/tudorlane/supplier-check) — Supplier Check API: UK Company, VAT, Sanctions & Website (KYB)
+- [`tudorlane/supplier-check`](https://apify.com/tudorlane/supplier-check) — Supplier Check API: UK KYB, Sanctions & Website Risk
 - [`tudorlane/tech-stack-detect`](https://apify.com/tudorlane/tech-stack-detect) — Tech Stack Detector: BuiltWith & Wappalyzer Alternative
 - [`tudorlane/text-toolkit`](https://apify.com/tudorlane/text-toolkit) — Token Counter & Text Stats API: Tokens, Language, Readability
 - [`tudorlane/timezone-meeting-planner`](https://apify.com/tudorlane/timezone-meeting-planner) — Time Zone Converter & Meeting Planner API (DST-aware)
