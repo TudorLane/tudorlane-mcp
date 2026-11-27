@@ -56,8 +56,8 @@ Registry metadata: `kyb/server.json`
 
 Registry metadata: `uk-business/server.json`
 
-- [UK Pay & Calendar Calculator 2026/27](https://apify.com/tudorlane/uk-pay-calendar-calculator) — `tudorlane/uk-pay-calendar-calculator`
-- [UK Property Sold Prices: Land Registry Price Paid Data API](https://apify.com/tudorlane/uk-property-sold-prices) — `tudorlane/uk-property-sold-prices`
+- [UK Take-Home Pay Calculator: Tax, NI, Stamp Duty & VAT 2026/27](https://apify.com/tudorlane/uk-pay-calendar-calculator) — `tudorlane/uk-pay-calendar-calculator`
+- [UK Property Sold Prices API: Land Registry (England & Wales)](https://apify.com/tudorlane/uk-property-sold-prices) — `tudorlane/uk-property-sold-prices`
 - [Currency Converter & VAT Rates by Country API (ECB, EU)](https://apify.com/tudorlane/fx-vat-rates) — `tudorlane/fx-vat-rates`
 - [Public Holidays and Working Days API: 150+ Countries](https://apify.com/tudorlane/world-holidays-working-days) — `tudorlane/world-holidays-working-days`
 - [Postcode & ZIP Code Lookup API Worldwide (Geocode, Reverse)](https://apify.com/tudorlane/world-postcode-lookup) — `tudorlane/world-postcode-lookup`
@@ -266,8 +266,8 @@ The bundles above are short lists (5–12 tools) so they fit in an agent's conte
 
 ### UK everyday business
 
-- [UK Pay & Calendar Calculator 2026/27](https://apify.com/tudorlane/uk-pay-calendar-calculator) — `tudorlane/uk-pay-calendar-calculator`
-- [UK Property Sold Prices: Land Registry Price Paid Data API](https://apify.com/tudorlane/uk-property-sold-prices) — `tudorlane/uk-property-sold-prices`
+- [UK Take-Home Pay Calculator: Tax, NI, Stamp Duty & VAT 2026/27](https://apify.com/tudorlane/uk-pay-calendar-calculator) — `tudorlane/uk-pay-calendar-calculator`
+- [UK Property Sold Prices API: Land Registry (England & Wales)](https://apify.com/tudorlane/uk-property-sold-prices) — `tudorlane/uk-property-sold-prices`
 - [Currency Converter & VAT Rates by Country API (ECB, EU)](https://apify.com/tudorlane/fx-vat-rates) — `tudorlane/fx-vat-rates`
 - [Public Holidays and Working Days API: 150+ Countries](https://apify.com/tudorlane/world-holidays-working-days) — `tudorlane/world-holidays-working-days`
 - [Postcode & ZIP Code Lookup API Worldwide (Geocode, Reverse)](https://apify.com/tudorlane/world-postcode-lookup) — `tudorlane/world-postcode-lookup`
@@ -486,8 +486,8 @@ The bundles above are short lists (5–12 tools) so they fit in an agent's conte
 - [`tudorlane/uk-company-check`](https://apify.com/tudorlane/uk-company-check) — Companies House API: UK Company Check & KYB Risk
 - [`tudorlane/uk-company-watch`](https://apify.com/tudorlane/uk-company-watch) — UK Company Watch: Companies House Change Monitor
 - [`tudorlane/uk-new-companies-watch`](https://apify.com/tudorlane/uk-new-companies-watch) — UK New Companies Watch: Fresh Incorporation Leads
-- [`tudorlane/uk-pay-calendar-calculator`](https://apify.com/tudorlane/uk-pay-calendar-calculator) — UK Pay & Calendar Calculator 2026/27
-- [`tudorlane/uk-property-sold-prices`](https://apify.com/tudorlane/uk-property-sold-prices) — UK Property Sold Prices: Land Registry Price Paid Data API
+- [`tudorlane/uk-pay-calendar-calculator`](https://apify.com/tudorlane/uk-pay-calendar-calculator) — UK Take-Home Pay Calculator: Tax, NI, Stamp Duty & VAT 2026/27
+- [`tudorlane/uk-property-sold-prices`](https://apify.com/tudorlane/uk-property-sold-prices) — UK Property Sold Prices API: Land Registry (England & Wales)
 - [`tudorlane/unit-converter`](https://apify.com/tudorlane/unit-converter) — Unit Converter API: Length, Weight, Temperature & Cooking
 - [`tudorlane/us-company-filings`](https://apify.com/tudorlane/us-company-filings) — SEC EDGAR API: US Company Filings, Financials & Insiders
 - [`tudorlane/vin-decoder`](https://apify.com/tudorlane/vin-decoder) — VIN Decoder API: Make, Model, Year, Specs & Recalls
