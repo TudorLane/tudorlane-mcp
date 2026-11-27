@@ -215,7 +215,7 @@ Registry metadata: `data-lookups/server.json`
 
 - [Wikipedia & Wikidata Facts API: Summary + Key Facts](https://apify.com/tudorlane/wiki-facts) — `tudorlane/wiki-facts`
 - [Academic Paper Search API: Crossref, arXiv & DOI Lookup](https://apify.com/tudorlane/academic-paper-search) — `tudorlane/academic-paper-search`
-- [Country, Currency & Language Codes API: ISO Lookup](https://apify.com/tudorlane/iso-codes-lookup) — `tudorlane/iso-codes-lookup`
+- [ISO Country Codes API: Currency, Language & Region Lookup](https://apify.com/tudorlane/iso-codes-lookup) — `tudorlane/iso-codes-lookup`
 - [IP Geolocation API: Country, City, ASN & Time Zone](https://apify.com/tudorlane/ip-geolocation) — `tudorlane/ip-geolocation`
 - [LatAm Tax ID Validator: CPF, CNPJ, RFC, CURP, CUIT, RUT](https://apify.com/tudorlane/latam-id-check) — `tudorlane/latam-id-check`
 - [Check Digit Validator: Card Luhn, ISBN, EAN, ISIN, CUSIP, SEDOL](https://apify.com/tudorlane/card-and-id-checksums) — `tudorlane/card-and-id-checksums`
@@ -389,7 +389,7 @@ The bundles above are short lists (5–12 tools) so they fit in an agent's conte
 
 - [Wikipedia & Wikidata Facts API: Summary + Key Facts](https://apify.com/tudorlane/wiki-facts) — `tudorlane/wiki-facts`
 - [Academic Paper Search API: Crossref, arXiv & DOI Lookup](https://apify.com/tudorlane/academic-paper-search) — `tudorlane/academic-paper-search`
-- [Country, Currency & Language Codes API: ISO Lookup](https://apify.com/tudorlane/iso-codes-lookup) — `tudorlane/iso-codes-lookup`
+- [ISO Country Codes API: Currency, Language & Region Lookup](https://apify.com/tudorlane/iso-codes-lookup) — `tudorlane/iso-codes-lookup`
 - [IP Geolocation API: Country, City, ASN & Time Zone](https://apify.com/tudorlane/ip-geolocation) — `tudorlane/ip-geolocation`
 - [LatAm Tax ID Validator: CPF, CNPJ, RFC, CURP, CUIT, RUT](https://apify.com/tudorlane/latam-id-check) — `tudorlane/latam-id-check`
 - [Check Digit Validator: Card Luhn, ISBN, EAN, ISIN, CUSIP, SEDOL](https://apify.com/tudorlane/card-and-id-checksums) — `tudorlane/card-and-id-checksums`
@@ -446,7 +446,7 @@ The bundles above are short lists (5–12 tools) so they fit in an agent's conte
 - [`tudorlane/interest-rates-yields`](https://apify.com/tudorlane/interest-rates-yields) — Interest Rates & Bond Yields API: Fed, BoE, ECB
 - [`tudorlane/invoice-receipt-parse`](https://apify.com/tudorlane/invoice-receipt-parse) — Invoice Parser API: Receipts & PDF Invoices to JSON (OCR)
 - [`tudorlane/ip-geolocation`](https://apify.com/tudorlane/ip-geolocation) — IP Geolocation API: Country, City, ASN & Time Zone
-- [`tudorlane/iso-codes-lookup`](https://apify.com/tudorlane/iso-codes-lookup) — Country, Currency & Language Codes API: ISO Lookup
+- [`tudorlane/iso-codes-lookup`](https://apify.com/tudorlane/iso-codes-lookup) — ISO Country Codes API: Currency, Language & Region Lookup
 - [`tudorlane/job-title-salary`](https://apify.com/tudorlane/job-title-salary) — Job Title to Salary API: SOC Codes & US Pay by State
 - [`tudorlane/json-schema-validate`](https://apify.com/tudorlane/json-schema-validate) — JSON Schema Validator API: Validate & Infer Schemas
 - [`tudorlane/latam-id-check`](https://apify.com/tudorlane/latam-id-check) — LatAm Tax ID Validator: CPF, CNPJ, RFC, CURP, CUIT, RUT
