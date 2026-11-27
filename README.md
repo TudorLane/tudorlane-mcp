@@ -114,9 +114,9 @@ Registry metadata: `markets/server.json`
 - [SEC EDGAR API: US Company Filings, Financials & Insiders](https://apify.com/tudorlane/us-company-filings) — `tudorlane/us-company-filings`
 - [Stock Price & Fundamentals API: Quotes, History, SEC Financials](https://apify.com/tudorlane/stock-price) — `tudorlane/stock-price`
 - [Interest Rates & Bond Yields API: Fed, BoE, ECB](https://apify.com/tudorlane/interest-rates-yields) — `tudorlane/interest-rates-yields`
-- [Macro Data API: Inflation, GDP, Unemployment by Country](https://apify.com/tudorlane/macro-indicators) — `tudorlane/macro-indicators`
+- [Macroeconomic Data API: Inflation, GDP, Unemployment by Country](https://apify.com/tudorlane/macro-indicators) — `tudorlane/macro-indicators`
 - [Stock Market Hours API: Is the Exchange Open Now?](https://apify.com/tudorlane/market-hours) — `tudorlane/market-hours`
-- [Funding Rounds Tracker - Crunchbase Alternative](https://apify.com/tudorlane/funding-round-watch) — `tudorlane/funding-round-watch`
+- [Startup Funding Rounds Tracker: SEC Form D & UK Allotments](https://apify.com/tudorlane/funding-round-watch) — `tudorlane/funding-round-watch`
 - [FX Rate Alert: Currency Move Monitor (ECB Rates)](https://apify.com/tudorlane/fx-rate-alert) — `tudorlane/fx-rate-alert`
 - [Currency Converter & VAT Rates by Country API (ECB, EU)](https://apify.com/tudorlane/fx-vat-rates) — `tudorlane/fx-vat-rates`
 - [Check Digit Validator: Card Luhn, ISBN, EAN, ISIN, CUSIP, SEDOL](https://apify.com/tudorlane/card-and-id-checksums) — `tudorlane/card-and-id-checksums`
@@ -312,9 +312,9 @@ The bundles above are short lists (5–12 tools) so they fit in an agent's conte
 - [SEC EDGAR API: US Company Filings, Financials & Insiders](https://apify.com/tudorlane/us-company-filings) — `tudorlane/us-company-filings`
 - [Stock Price & Fundamentals API: Quotes, History, SEC Financials](https://apify.com/tudorlane/stock-price) — `tudorlane/stock-price`
 - [Interest Rates & Bond Yields API: Fed, BoE, ECB](https://apify.com/tudorlane/interest-rates-yields) — `tudorlane/interest-rates-yields`
-- [Macro Data API: Inflation, GDP, Unemployment by Country](https://apify.com/tudorlane/macro-indicators) — `tudorlane/macro-indicators`
+- [Macroeconomic Data API: Inflation, GDP, Unemployment by Country](https://apify.com/tudorlane/macro-indicators) — `tudorlane/macro-indicators`
 - [Stock Market Hours API: Is the Exchange Open Now?](https://apify.com/tudorlane/market-hours) — `tudorlane/market-hours`
-- [Funding Rounds Tracker - Crunchbase Alternative](https://apify.com/tudorlane/funding-round-watch) — `tudorlane/funding-round-watch`
+- [Startup Funding Rounds Tracker: SEC Form D & UK Allotments](https://apify.com/tudorlane/funding-round-watch) — `tudorlane/funding-round-watch`
 - [FX Rate Alert: Currency Move Monitor (ECB Rates)](https://apify.com/tudorlane/fx-rate-alert) — `tudorlane/fx-rate-alert`
 - [Currency Converter & VAT Rates by Country API (ECB, EU)](https://apify.com/tudorlane/fx-vat-rates) — `tudorlane/fx-vat-rates`
 - [Check Digit Validator: Card Luhn, ISBN, EAN, ISIN, CUSIP, SEDOL](https://apify.com/tudorlane/card-and-id-checksums) — `tudorlane/card-and-id-checksums`
@@ -435,7 +435,7 @@ The bundles above are short lists (5–12 tools) so they fit in an agent's conte
 - [`tudorlane/email-verify`](https://apify.com/tudorlane/email-verify) — Email Verifier & Email Validation - Bulk Email Checker
 - [`tudorlane/exact-calc`](https://apify.com/tudorlane/exact-calc) — Exact Calculator API: Decimal Maths, Percent, Loans, Rounding
 - [`tudorlane/file-convert-profile`](https://apify.com/tudorlane/file-convert-profile) — CSV to JSON Converter: Excel, Parquet & Data Profiler
-- [`tudorlane/funding-round-watch`](https://apify.com/tudorlane/funding-round-watch) — Funding Rounds Tracker - Crunchbase Alternative
+- [`tudorlane/funding-round-watch`](https://apify.com/tudorlane/funding-round-watch) — Startup Funding Rounds Tracker: SEC Form D & UK Allotments
 - [`tudorlane/fx-rate-alert`](https://apify.com/tudorlane/fx-rate-alert) — FX Rate Alert: Currency Move Monitor (ECB Rates)
 - [`tudorlane/fx-vat-rates`](https://apify.com/tudorlane/fx-vat-rates) — Currency Converter & VAT Rates by Country API (ECB, EU)
 - [`tudorlane/gov-tender-watch`](https://apify.com/tudorlane/gov-tender-watch) — UK Government Tender Watch: New Public Contract Alerts
@@ -452,7 +452,7 @@ The bundles above are short lists (5–12 tools) so they fit in an agent's conte
 - [`tudorlane/latam-id-check`](https://apify.com/tudorlane/latam-id-check) — LatAm Tax ID Validator: CPF, CNPJ, RFC, CURP, CUIT, RUT
 - [`tudorlane/lead-enrichment`](https://apify.com/tudorlane/lead-enrichment) — Lead Enrichment & Company Enrichment by Domain
 - [`tudorlane/lei-lookup`](https://apify.com/tudorlane/lei-lookup) — LEI Lookup API: GLEIF Search by Name, BIC, ISIN + Parents
-- [`tudorlane/macro-indicators`](https://apify.com/tudorlane/macro-indicators) — Macro Data API: Inflation, GDP, Unemployment by Country
+- [`tudorlane/macro-indicators`](https://apify.com/tudorlane/macro-indicators) — Macroeconomic Data API: Inflation, GDP, Unemployment by Country
 - [`tudorlane/market-hours`](https://apify.com/tudorlane/market-hours) — Stock Market Hours API: Is the Exchange Open Now?
 - [`tudorlane/medical-codes-providers`](https://apify.com/tudorlane/medical-codes-providers) — ICD-10 & NPI Lookup API: HCPCS, LOINC, Drug Labels
 - [`tudorlane/news-feed-search`](https://apify.com/tudorlane/news-feed-search) — News Scraper - Latest News Articles & Headlines API
