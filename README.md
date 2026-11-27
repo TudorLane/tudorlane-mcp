@@ -157,7 +157,7 @@ Registry metadata: `monitors-watches/server.json`
 - [Regulation Change Watch: UK Legislation & US Federal Register](https://apify.com/tudorlane/regulation-change-watch) — `tudorlane/regulation-change-watch`
 - [Travel Advisory Watch: UK FCDO & US State Dept Alerts](https://apify.com/tudorlane/travel-advisory-watch) — `tudorlane/travel-advisory-watch`
 - [Package Vulnerability Watch: New CVEs & Releases Monitor](https://apify.com/tudorlane/package-vuln-watch) — `tudorlane/package-vuln-watch`
-- [Price & Stock Watch: Product Price Drop Monitor](https://apify.com/tudorlane/price-stock-watch) — `tudorlane/price-stock-watch`
+- [Price Tracker: Product Price Drop & Back-in-Stock Alerts](https://apify.com/tudorlane/price-stock-watch) — `tudorlane/price-stock-watch`
 - [Adverse Media Watch: Negative News Screening for KYC](https://apify.com/tudorlane/adverse-media-watch) — `tudorlane/adverse-media-watch`
 
 ### Leads and news
@@ -186,7 +186,7 @@ Registry metadata: `leads-news/server.json`
 Registry metadata: `ecommerce-products/server.json`
 
 - [Barcode Lookup API: EAN/UPC to Product & Nutrition](https://apify.com/tudorlane/barcode-product-lookup) — `tudorlane/barcode-product-lookup`
-- [Price & Stock Watch: Product Price Drop Monitor](https://apify.com/tudorlane/price-stock-watch) — `tudorlane/price-stock-watch`
+- [Price Tracker: Product Price Drop & Back-in-Stock Alerts](https://apify.com/tudorlane/price-stock-watch) — `tudorlane/price-stock-watch`
 - [QR Code & Barcode API: Generate PNG/SVG and Decode Images](https://apify.com/tudorlane/qr-barcode-tools) — `tudorlane/qr-barcode-tools`
 - [VIN Decoder API: Make, Model, Year, Specs & Recalls](https://apify.com/tudorlane/vin-decoder) — `tudorlane/vin-decoder`
 - [HS Code & Import Duty API: UK Tariff and US HTS Rates](https://apify.com/tudorlane/hs-tariff-code) — `tudorlane/hs-tariff-code`
@@ -347,7 +347,7 @@ The bundles above are short lists (5–12 tools) so they fit in an agent's conte
 - [Regulation Change Watch: UK Legislation & US Federal Register](https://apify.com/tudorlane/regulation-change-watch) — `tudorlane/regulation-change-watch`
 - [Travel Advisory Watch: UK FCDO & US State Dept Alerts](https://apify.com/tudorlane/travel-advisory-watch) — `tudorlane/travel-advisory-watch`
 - [Package Vulnerability Watch: New CVEs & Releases Monitor](https://apify.com/tudorlane/package-vuln-watch) — `tudorlane/package-vuln-watch`
-- [Price & Stock Watch: Product Price Drop Monitor](https://apify.com/tudorlane/price-stock-watch) — `tudorlane/price-stock-watch`
+- [Price Tracker: Product Price Drop & Back-in-Stock Alerts](https://apify.com/tudorlane/price-stock-watch) — `tudorlane/price-stock-watch`
 - [Adverse Media Watch: Negative News Screening for KYC](https://apify.com/tudorlane/adverse-media-watch) — `tudorlane/adverse-media-watch`
 
 ### Leads, news and hiring
@@ -368,7 +368,7 @@ The bundles above are short lists (5–12 tools) so they fit in an agent's conte
 ### Ecommerce and products
 
 - [Barcode Lookup API: EAN/UPC to Product & Nutrition](https://apify.com/tudorlane/barcode-product-lookup) — `tudorlane/barcode-product-lookup`
-- [Price & Stock Watch: Product Price Drop Monitor](https://apify.com/tudorlane/price-stock-watch) — `tudorlane/price-stock-watch`
+- [Price Tracker: Product Price Drop & Back-in-Stock Alerts](https://apify.com/tudorlane/price-stock-watch) — `tudorlane/price-stock-watch`
 - [QR Code & Barcode API: Generate PNG/SVG and Decode Images](https://apify.com/tudorlane/qr-barcode-tools) — `tudorlane/qr-barcode-tools`
 - [VIN Decoder API: Make, Model, Year, Specs & Recalls](https://apify.com/tudorlane/vin-decoder) — `tudorlane/vin-decoder`
 - [HS Code & Import Duty API: UK Tariff and US HTS Rates](https://apify.com/tudorlane/hs-tariff-code) — `tudorlane/hs-tariff-code`
@@ -462,7 +462,7 @@ The bundles above are short lists (5–12 tools) so they fit in an agent's conte
 - [`tudorlane/page-metadata-extract`](https://apify.com/tudorlane/page-metadata-extract) — Page Metadata Extractor API: OpenGraph, JSON-LD, Feeds
 - [`tudorlane/page-to-markdown`](https://apify.com/tudorlane/page-to-markdown) — Website to Markdown: Web Page and PDF to LLM-ready Text
 - [`tudorlane/phone-validate`](https://apify.com/tudorlane/phone-validate) — Phone Number Validator API: Format, Type & Country
-- [`tudorlane/price-stock-watch`](https://apify.com/tudorlane/price-stock-watch) — Price & Stock Watch: Product Price Drop Monitor
+- [`tudorlane/price-stock-watch`](https://apify.com/tudorlane/price-stock-watch) — Price Tracker: Product Price Drop & Back-in-Stock Alerts
 - [`tudorlane/provable-random`](https://apify.com/tudorlane/provable-random) — Provably Fair Random Picker: Raffles, Draws, Shuffles & IDs
 - [`tudorlane/qr-barcode-tools`](https://apify.com/tudorlane/qr-barcode-tools) — QR Code & Barcode API: Generate PNG/SVG and Decode Images
 - [`tudorlane/regulation-change-watch`](https://apify.com/tudorlane/regulation-change-watch) — Regulation Change Watch: UK Legislation & US Federal Register
